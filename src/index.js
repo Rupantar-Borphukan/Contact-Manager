@@ -8,6 +8,6 @@ root.render(
   <React.StrictMode>
     <App />
   <Route>
-  </Route>
+
   </React.StrictMode>
 );
